@@ -213,9 +213,9 @@ knitr::include_graphics("schedule.jpg")
  
  Then I took all the data I had collected and used it to answer two main questions: 
  
-1) How did I divide my time before and after the shift to learning among my academics and other activities?
+> How did I divide my time before and after the shift to learning among my academics and other activities?
  
-2) How has the change in timezone changed the way in which I schedule my time between the morning and the evening? 
+> How has the change in timezone changed the way in which I schedule my time between the morning and the evening? 
 
 
 ## Data Presentation and Insights
