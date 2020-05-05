@@ -1,0 +1,10 @@
+Activity,When,Duration,Timeslots,Morning,Evening
+Academics,after,103.75,16,0.3125,0.6875
+Academics,before,87.6923076923077,13,0.5384615384615384,0.46153846153846156
+Athletics,after,60,10,0.5,0.5
+Athletics,before,120,5,0,1
+Extracurricular,after,60,4,1,0
+Extracurricular,before,60,2,0.5,0.5
+Health_Wellness,after,87.2727272727273,11,0.09090909090909091,0.9090909090909091
+Health_Wellness,before,60,2,0,1
+Meals,before,60,21,NA,NA
