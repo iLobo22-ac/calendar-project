@@ -23,7 +23,7 @@ A major change and challenge of remote learning has been the complete shift in h
 
 I wanted to use the skills I have learned in my Data Science class to try and figure out whether I was scheduling my time better before or after COVID-19 and the shift to remote learning. Spending time in a completely different timezone made me wonder how effecient/ ineffecient the system of learning across timezones is. I wanted to see whether the shift in the timezone has created major difference in the way I scheduled my time between the mornings and the evenings. 
 
-```{r, eval=FALSE, include=FALSE}
+```{r, include=FALSE}
 # you'll need to delete the eval=FALSE for this code chunk to execute
 # but keep the include = FALSE so that it does not show up in the knit file (on the webpage)
 library(tidyverse)

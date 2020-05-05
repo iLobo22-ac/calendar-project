@@ -3,9 +3,9 @@ title: 'Diary of a Data Science Student: Cabin Fever During COVID-19'
 author: "Isabelle Rose Lobo"
 date: "Due Tuesday, May 5 by 5:00 PM"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
 subtitle: 'Stat231: Google Calendar Project'
 ---
 
@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Hello and Welcome!
 
-Hello! And welcome to my Diary. My name is Isabelle Lobo and I am a data-scientist (well an aspiring one at least :P)! I am a 20 year old student at Amherst College majoring in statistics. The thing I love most about statistics and Data Science are the tools they equip me with to analyse data. And ofcourse the data science memes. 
+Hello! And welcome to my Diary. My name is Isabelle Lobo and I am a data-scientist (well an aspiring one at least :P)! I am a 20 year old student at Amherst College majoring in statistics. The thing I love most about statistics and Data Science are the tools they equip me with to analyse data. And of course, the data science memes...
 
 
 ```{r echo=FALSE, fig.cap="Data Science Memes!", out.width= '100%'}
@@ -24,6 +24,7 @@ knitr::include_graphics("funny1.png")
 
 As a student of data-science at Amherst the shift to remote learning has been challenging. But it has had so many positive outcomes. I have learned to work on statistics projects with people in different time zones and try to find solutions to my problems before I run to office hours. But most importantly, the huge changes between my life before and after COVID-19 has meant one thing. More! Data! To! Analyze!
 
+\newpage 
 ## How do I spend my time?
 
 A major change and challenge of remote learning has been the complete shift in how I schedule my time in the absence of the usual structures in place when on campus. 
@@ -336,7 +337,7 @@ The data has shown me that although there have been several changes in my schedu
 This project has been one of my favorite projects this semester and increased my fascination with Data Science. It was astounding to realise that I could glean so many insights from simple calendar schedule. With the skills I have acquired in this class, and through the project, I have realised that as a Data Scientist anything can be converted into data and the world is truly your oyster. Although it can be tiresome, data wrangling is undoubtedly my favorite part of the process. Being able to take information and transform it into the format you like feels like magic every single time. What is equally exciting is when you take this transformed data and transform it from simply words and numbers into what can only be called data art. After wrangling my data and creating visualizations, I gave my family a sneak peek into my diary and it was amazing to see that they could understand and interpret patterns in my schedule from just a few graphs. This has lead me to conclude that data visualization is truly the best asset to depict any type of information for any audience. 
 
 
-```{r pressure, echo=FALSE, fig.cap="How I feel when I look at any information:", out.width = '50%'}
+```{r pressure, echo=FALSE, fig.cap="How I feel when I look at any information now", out.width = '50%'}
 knitr::include_graphics("collectthedata.jpg")
 ```
 
